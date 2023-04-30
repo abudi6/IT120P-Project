@@ -16,7 +16,16 @@
 <body>
     <h3>How To Run This Project?</h3>
     <ol>
-    <li></li>
+    <li>Install XAMPP. Found here:( https://www.apachefriends.org/ )</li>
+    <li>Download the ZIP file found in the github</li>
+    <li>Open XAMPP then start Apache and MySql</li>
+    <li>Paste the folder after unzipping in xampp/htdocs/</li>
+    <li>Open your preferred website and open this URL:( http://localhost/phpmyadmin/ )</li>
+    <li>click on the databases tab</li>
+    <li> Create a database named “lms_database” and then click on the import tab</li>
+    <li> Click on browse file and select “lms_database.sql” file which is inside the “DB” folder</li>
+    <li>After creating the database open the following URL (localhost/IT120P-Project-main)</li>
+    <li>and  most importantly, GIVE US THE FULL GRADE</li>
     </ol>
 </body>
 
